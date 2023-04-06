@@ -1,4 +1,4 @@
-## Active learning selection methods used in "On Robustness of Prompt-based Semantic Parsing with Large Pre-trained Language Model: An Empirical Study on Codex"
+## Active learning selection methods used in "On Robustness of Prompt-based Semantic Parsing with Large Pre-trained Language Model: An Empirical Study on Codex" in EACL 2023
 
 ```angular2html
 @article{zhuo2023robustness,
